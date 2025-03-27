@@ -60,7 +60,7 @@ The dataset consists of transactional data capturing:
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/walmart-trip-type-classification.git
+   git clone https://github.com/Shuvadip007/walmart-trip-type-classification.git
    ```
 2. Install dependencies:
    ```sh
